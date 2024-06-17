@@ -19,6 +19,8 @@ streamlit = "*"
 streamlit-chat = "*"
 tqdm = "*"
 langchain-pinecone = "*"
+langchain-openai = "*"
+langchain-community = "*"
 
 [dev-packages]
 
